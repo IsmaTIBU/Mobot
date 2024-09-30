@@ -30,5 +30,8 @@ MoBot offers three core functionalities:
 2.**Voice Command Interpretation**:[Décrire test réalisé]
 [Video]
 
-3.**Robot scanning in autonomy**:[Décrire test réalisé] 
-[Video]
+3.**Robot scanning in autonomy**:
+The purpose of the robot in this task is to scan a room without crashing with the walls
+[Robot scanning in autonomy](https://github.com/user-attachments/assets/4f919ec4-3920-405f-a559-740e681eeb6c)
+
+
