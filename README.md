@@ -24,7 +24,7 @@ MoBot offers three core functionalities:
 ---
 
 ## Some results
-1.**Real-time video stream image processing**:
+1.**Real-time video stream image processing**:[Décrire test réalisé]
 
 
-2.**Voice Command Interpretation**:
+2.**Voice Command Interpretation**:[Décrire test réalisé]
