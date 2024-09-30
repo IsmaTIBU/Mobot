@@ -16,7 +16,7 @@ MoBot offers three core functionalities:
 
 2. **Text Processing**
    - Interprets user vocal commands thanks to an AI and uses that text transcription to deduce the corresponding actions to be performed by the robot.
-      -  Languages : French, Spanish
+      -  Languages : French
 
-3. **Robot Movement Simulation**
-   - Simulates robot movements in a virtual environment based on the image and text input data.
+3. **Robot Movement**
+   - Code located in the Arduino capable of linking different instructions with the movements having to be executed by the robot
