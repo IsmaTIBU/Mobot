@@ -11,12 +11,20 @@ The aim of this project is for the robot to become fully autonomous by allowing 
 
 MoBot offers three core functionalities:
 
-1. **Image Processing**
+1. **Real-time video stream image processing**
    - Tracs a ball in the video stream in real time and detects it's color:
 
-2. **Text Processing**
+2. **Voice Command Interpretation**
    - Interprets user vocal commands thanks to an AI and uses that text transcription to deduce the corresponding actions to be performed by the robot.
       -  Languages : French
 
 3. **Robot Movement**
    - Code located in the Arduino capable of linking different instructions with the movements having to be executed by the robot
+
+---
+
+## Some results
+1.**Real-time video stream image processing**:
+
+
+2.**Voice Command Interpretation**:
