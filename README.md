@@ -1,6 +1,6 @@
 # MoBot - Mobile Robot
 
-This program is intended for use on a mobile robot with a specific motor and sensors. The only program that can be tested without this hardware is the image recognition program “balltracking.py” that tracks colored balls , which will use a computer's default camera. Depending on the camera used, results may vary.This program is intended to be used with a Picamera2. It also works well with my collegue's Acer laptop camera.
+The only program that can be tested without this hardware is the image recognition program “balltracking.py” that tracks colored balls , which will use a computer's default camera. Depending on the camera used, results may vary.This program is intended to be used with a Picamera2. It also works well with my collegue's Acer laptop camera.
 
 ---
 
@@ -25,6 +25,10 @@ MoBot offers three core functionalities:
 
 ## Some results
 1.**Real-time video stream image processing**:[Décrire test réalisé]
-
+[Video]
 
 2.**Voice Command Interpretation**:[Décrire test réalisé]
+[Video]
+
+3.**Robot scanning in autonomy**:[Décrire test réalisé] 
+[Video]
