@@ -24,15 +24,15 @@ MoBot offers three core functionalities:
 ---
 
 ## Some results illustrated by video
-1. **Real-time video stream image processing**:
+1. **Real-time video stream image processing**:  
 Here we were doing some tests on how the camera on robot would detect the ball and if it would detect it correctly. You can see a red trail every time we move the ball, following its center.
 [Watch video](https://github.com/user-attachments/assets/0bd85940-c4d1-4439-9bbd-5f775ef4f498)
 
-2. **Voice Command Interpretation**:
+2. **Voice Command Interpretation**:  
 In this video we mainly wanted to demonstrate that even if the user asks the robot to perform impossible tasks in certain scenarios, it is able to always keep in mind that its integrity comes first and will activate an obstacle avoidance protocol. However, this way you can also watch how the voice command interpretation works.
 [Watch video](https://github.com/IsmaTIBU/Mobot/blob/main/Video_MoBot_2.mov)
 
-3. **Robot scanning in autonomy**:
+3. **Robot scanning in autonomy**:  
 The purpose of the robot in this task is to scan a room without crashing with the walls.
 [Watch video](https://github.com/user-attachments/assets/4f919ec4-3920-405f-a559-740e681eeb6c)
 
