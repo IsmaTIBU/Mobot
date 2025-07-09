@@ -1,3 +1,5 @@
+[Clickez ici pour lire le document traduit au français](fr_README.md)
+
 # MoBot - Mobile Robot
 
 The only program that can be tested without this hardware is the image recognition program “balltracking.py” that tracks colored balls , which will use a computer's default camera. Depending on the camera used, results may vary.This program is intended to be used with a Picamera2. It also works well with my collegue's Acer laptop camera.
@@ -35,5 +37,3 @@ In this video we mainly wanted to demonstrate that even if the user asks the rob
 3. **Robot scanning in autonomy**:  
 The purpose of the robot in this task is to scan a room without crashing with the walls.
 [Watch video](https://github.com/user-attachments/assets/4f919ec4-3920-405f-a559-740e681eeb6c)
-
-
