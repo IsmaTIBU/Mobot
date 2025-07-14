@@ -1,6 +1,7 @@
 # MoBot - Robot Mobile
-Le seul programme qui peut être testé sans ce matériel est le programme de reconnaissance d'image "balltracking.py" qui suit les balles colorées, et qui utilisera la caméra par défaut d'un ordinateur. Selon la caméra utilisée, les résultats peuvent varier. Ce programme est destiné à être utilisé avec une Picamera2. Il fonctionne également bien avec la caméra du portable Acer de mon collègue.
----
+### *Pour un aperçu plus complet de mon travail, visitez mon portfolio sur [imonge.es](https://imonge.es/proyecto/3?lang=fr).*
+>REMARQUE: Le seul programme qui peut être testé sans ce matériel est le programme de reconnaissance d'image "balltracking.py" qui suit les balles colorées, et qui utilisera la caméra par défaut d'un ordinateur. Selon la caméra utilisée, les résultats peuvent varier. Ce programme est destiné à être utilisé avec une Picamera2. Il fonctionne également bien avec la caméra du portable Acer de mon collègue.
+
 ## Aperçu
 L'objectif de ce projet est que le robot devienne entièrement autonome en lui permettant de recevoir des instructions verbales de l'utilisateur pour les exécuter lorsqu'elles sont envoyées. Pour cela, nous avons utilisé le programme MoBotSim qui traite les commandes verbales sous forme de texte et les modifie pour qu'elles puissent être envoyées via communication série au robot. De plus, pour l'analyse des mots, nous avons dû utiliser WhisperAI en python et le lier avec le programme précédent.
 ### Fonctionnalités Principales
