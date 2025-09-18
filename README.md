@@ -6,7 +6,8 @@
 
 # MoBot - Mobile Robot
 ### *For a more complete overview of my work, visit my portfolio at [imonge.es](https://imonge.es/proyecto/3?lang=en).*
-> **Note** : The only program that can be tested without this hardware is the image recognition program “balltracking.py” that tracks colored balls , which will use a computer's default camera. Depending on the camera used, results may vary.This program is intended to be used with a Picamera2. It also works well with my collegue's Acer laptop camera.
+> [!Note]
+> The only program that can be tested without this hardware is the image recognition program “balltracking.py” that tracks colored balls , which will use a computer's default camera. Depending on the camera used, results may vary.This program is intended to be used with a Picamera2. It also works well with my collegue's Acer laptop camera.
 
 ---
 
